@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AeroGuitar 吉他練習曲庫</title>
+<style>
+:root{--ink:#132d24;--muted:#536358;--pine:#104431;--line:#dcded3;--paper:#fffdf8;--warm:#f5f1e8;--accent:#ad480f}
+*{box-sizing:border-box}body{margin:0;background:var(--warm);color:var(--ink);font:16px/1.55 system-ui,"Microsoft JhengHei",sans-serif}
+header{background:#103626;color:white;border-bottom:4px solid #e18442}header div{max-width:1380px;margin:auto;padding:15px clamp(16px,4vw,54px);display:flex;align-items:center;gap:20px}.brand{font:700 29px Georgia,serif}header small{border-left:1px solid #879e8e;padding-left:20px}
+main{max-width:1380px;margin:auto;padding:29px clamp(14px,4vw,54px) 50px}h1{font-size:clamp(27px,4vw,40px);margin:0 0 20px;line-height:1.2}h2,h3,p{margin:0}nav{display:flex;gap:8px;margin-bottom:20px;border-bottom:2px solid var(--pine)}
+button,input,select{font:inherit}button,select{cursor:pointer}button,.action{border:1px solid var(--pine);border-radius:8px;background:var(--paper);padding:9px 13px;color:var(--pine);font-weight:650;text-decoration:none;display:inline-block}button:hover,.action:hover{filter:brightness(.94)}:focus-visible{outline:3px solid #b34c12;outline-offset:2px}
+nav button{border-radius:8px 8px 0 0;border-bottom:0}nav [aria-pressed=true],.primary{background:var(--pine);color:white}.play{background:var(--accent);border-color:var(--accent);color:white}
+.layout{display:grid;grid-template-columns:minmax(0,1.8fr) minmax(0,1fr);gap:22px;align-items:start}
+.panel{background:var(--paper);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.filters{padding:16px;display:flex;gap:12px;flex-wrap:wrap;align-items:end}.search{flex:1 0 100%}.filters label{font-size:.88rem;font-weight:650}.search input,select{display:block;width:100%;min-width:0;border:1px solid #899b8e;border-radius:7px;background:#fffefa;color:var(--ink);min-height:42px;padding:7px 9px}.pick{flex:1 1 130px;min-width:0}.checks{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.checks label{display:flex;align-items:center;gap:4px;min-height:42px;white-space:nowrap}input[type=checkbox]{accent-color:var(--pine);width:17px;height:17px}
+#count{padding:0 16px 10px;color:var(--muted);font-size:.88rem}.table-wrap{max-height:65vh;overflow:auto}table{border-collapse:separate;border-spacing:0;width:100%;table-layout:fixed;text-align:left}th{position:sticky;top:0;background:var(--pine);color:white;z-index:1}th,td{padding:10px 11px;overflow-wrap:anywhere}th:first-child{width:49%}td{border-bottom:1px solid var(--line);font-size:.93rem}tr[data-selected=true] td{background:#fae3cc}tr[data-selected=true] td:first-child{box-shadow:inset 3px 0 #ba5a24}.song{background:none;border:0;text-align:left;padding:0;min-height:35px;width:100%}.song small,.muted{display:block;color:var(--muted);font-weight:400}.empty{padding:22px 16px}
+#detail{position:sticky;top:16px}.cover{display:block;width:100%;height:220px;background:#eef1ec url("AeroGuitar.webp") center / contain no-repeat}.detail-body{padding:18px}.code{font:700 2rem Georgia,serif;margin:4px 0}.metrics{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.metric{flex:1 1 75px;background:#e7eee4;border-radius:8px;text-align:center;padding:7px 5px;overflow-wrap:anywhere}.metric strong{display:block;font-size:1.1rem}.metric small{color:var(--muted)}.actions{display:flex;gap:8px;flex-wrap:wrap;margin:15px 0}.chords{background:#f1efe4;border-radius:9px;padding:12px;overflow-wrap:anywhere}.chords h3{font-size:1rem}.chord-record{margin-top:5px;white-space:pre-wrap}.extra{margin:12px 0 0;display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:.9rem}.extra dt{font-weight:650}.extra dd{margin:0;overflow-wrap:anywhere}.hint{font-size:.84rem;color:var(--muted);margin-top:12px}
+dialog{width:min(1080px,calc(100% - 24px));max-height:calc(100% - 24px);border:1px solid var(--line);border-radius:14px;padding:clamp(12px,3vw,24px);background:var(--paper);color:var(--ink)}dialog::backdrop{background:#10231dc0}dialog h2{font-size:clamp(20px,3vw,30px);overflow-wrap:anywhere}.dialog-head{display:flex;align-items:center;justify-content:space-between;gap:8px;border-bottom:2px solid var(--pine);padding-bottom:12px;margin-bottom:15px}.close{font-size:22px;line-height:1;padding:8px 12px}.play-layout{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:14px}.play-layout .metrics{margin:0 0 12px}iframe{display:block;width:100%;aspect-ratio:16/9;min-height:200px;background:#121714;border:0;border-radius:9px}.video-link{margin-top:10px}.player-song{font-weight:700;margin:3px 0;overflow-wrap:anywhere}.player-error{background:#f1efe4;border:1px solid var(--line);border-radius:9px;padding:16px}
+[hidden]{display:none!important}
+@media(max-width:780px){.layout,.play-layout{grid-template-columns:1fr}#detail{position:static;scroll-margin-top:8px}.table-wrap{max-height:52vh}.cover{height:110px}th,td{padding:8px}.checks{width:100%}}
+</style>
+</head>
+<body>
+<header><div><span class="brand">AeroGuitar</span><small>私人曲庫 · 測試版</small></div></header>
+<main>
+<h1>吉他練習曲庫</h1>
+<nav aria-label="曲庫檢視"><button id="all" aria-pressed="true">全部曲目</button><button id="practice" aria-pressed="false">練習清單</button></nav>
+<div class="layout">
+<section class="panel" aria-label="曲目清單">
+<div class="filters">
+<label class="search">搜尋<input id="search" type="search" placeholder="歌名、演奏者或編號"></label>
+<label class="pick">和弦譜類別<select id="group"><option value="">全部</option><option value="A">A - 鋼琴（古典）</option><option value="B">B - 鋼琴（西洋）</option><option value="C">C - 鋼琴（華語）</option><option value="D">D - 吉他（西洋）</option><option value="E">E - 吉他（華語）</option><option value="F">F - 吉他（西洋）</option><option value="H">H - 吉他（西洋）</option><option value="I">I - 混音示範檔</option></select></label>
+<label class="pick">AG 和弦<select id="category"><option value="">全部</option></select></label>
+<div class="checks"><label><input id="chord" type="checkbox">有和弦</label><label><input id="video" type="checkbox">有影片</label></div>
+</div>
+<p id="count" role="status"></p>
+<div class="table-wrap"><table><thead><tr><th scope="col">曲目</th><th scope="col">AG 和弦</th><th scope="col">藝人 / 歌手 / 音樂人</th></tr></thead><tbody id="rows"></tbody></table></div>
+<p class="empty" id="empty" hidden></p>
+</section>
+<section class="panel" id="detail" aria-labelledby="detail-title" tabindex="-1" hidden>
+<div class="cover" aria-hidden="true"></div>
+<div class="detail-body">
+<h2 class="code" id="detail-title"></h2>
+<p class="muted" id="detail-player"></p>
+<div class="metrics" id="detail-metrics"></div>
+<div class="actions"><button id="save" class="primary"></button><button id="play" class="play">▶ 播放 YouTube</button></div>
+<div class="chords"><h3 id="detail-chord"></h3><p class="chord-record">Chord：<span id="detail-chord-record"></span></p></div>
+<dl class="extra" id="extra"></dl>
+<p class="hint" id="save-status" role="status"></p>
+</div></section>
+</div>
+</main>
+<dialog id="player" aria-labelledby="player-title">
+<div class="dialog-head"><div><h2 id="player-title"></h2><p class="player-song" id="player-chart"></p><p class="muted" id="player-name"></p></div><button class="close" id="close-player" aria-label="關閉播放視窗" autofocus>×</button></div>
+<div class="play-layout"><div><div id="frame"></div><a id="video-link" class="action video-link" target="_blank" rel="noopener noreferrer">在 YouTube 開啟 ↗</a><p class="hint" id="video-note" role="status"></p></div>
+<div><div class="metrics" id="player-metrics"></div><div class="chords"><h3 id="player-chord"></h3><p class="chord-record">Chord：<span id="player-chord-record"></span></p></div></div></div>
+</dialog>
+<script src="tracks.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

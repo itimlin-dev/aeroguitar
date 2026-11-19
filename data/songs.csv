@@ -1,0 +1,147 @@
+ID,AG_No,Title,AG Chord,Drum,Key,Capo,BPM,Artists,Remark,Chord,Youtube_URL
+AG-001,A-01,Canon in D,基礎分解,,D,2,75,Brooklyn Duo,Cello,[C-x-Em-F-G-A-x],https://youtu.be/Ptk_1Dc2iPY
+AG-002,A-01,Canon in D,基礎分解,,D,2,70,David Bay,"Violin, Flute & Piano",[C-x-Em-F-G-A-x],https://youtu.be/rxYFWx2ZugM
+AG-003,A-01,Canon in D,分解和弦3,,D,2,77,Marie Leloup,Violin,[C-x-Em-F-G-A-x],https://youtu.be/LPvC_L-QZew
+AG-004,B-01,Perfect,柱式和弦,,Ab,1,64,Dave Monk,Guitar,[C-D-Em-x-G-x-x],https://youtu.be/Sd2xC1OX_hQ
+AG-005,B-01,Perfect,柱式和弦,,,5,64,Guitar,彈唱,[C-D-Em-x-G-x-x],https://youtu.be/yDnyXKUsMe4
+AG-006,B-02,I Don't Like To Sleep Alone,柱式和弦,,A,3,65,Golden Country,,(C-D-Em-x-G-Am-x),https://youtu.be/C5VeQqx4-PQ
+AG-007,B-03,Hey Jude - The Beatles,情歌柱式,,Ab,4,68,Dust Country,,[C-D-Em-x-G-A-x],https://youtu.be/KlFle6d3H40
+AG-008,B-04,I'd Love You To Want Me,柱式和弦,流行05,Bb,3,73,Lobo,,[C-D-Em-F-G-Am-Bm],https://youtu.be/nCz5C-l3QiQ
+AG-009,B-04,I'd Love You To Want Me,柱式和弦,流行05,Bb,3,73,Dave Monk,Guitar,[C-D-Em-F-G-Am-Bm],https://youtu.be/jl6HuzY__Ps
+AG-010,B-04,I'd Love You To Want Me,柱式和弦,流行05,Bb,3,77,Golden Country,,[C-D-Em-F-G-Am-Bm],https://youtu.be/98XvnCy0jO0
+AG-011,B-05,Without You,柱式和弦,,F#,1,61,Mariah Carey,,[C-Dm-Em-F-Gm-A-Bm],https://youtu.be/MKZ6GQkyg9k
+AG-012,B-05,Without You,柱式和弦,,,2,61,ARCANO,Violin,[C-D-Em-F#-Gbm-A-Bm],https://youtu.be/o9FL14Nxbz8
+AG-013,B-06,One Moment in Time,柱式和弦,,B,2/+1,75,Dana Winner,,[x-D-E-F#m-x-A-Bm],https://youtu.be/I9B5rFiuQOM
+AG-014,B-06,One Moment in Time,情歌柱式,,C,3/+1,75,Golden Country,,[x-D-E-F#m-x-A-Bm],https://youtu.be/i2UbgBvWxg4
+AG-015,B-06,One Moment in Time,情歌柱式,,Ab,4/+1,71,RAMDOR MUSIKA,,[x-D-E-F#m-x-A-Bm],
+AG-016,B-07,Always Remembered Us This Way,情歌柱式,,,0,65,SaxRuby,Saxophone,[C-x-x-F-G-Am-Bb],https://youtu.be/B0r4pLvTsG4
+AG-017,B-08,Words,柱式和弦,,,0,83,Country Time,,,
+AG-018,B-09,Please Release Me ,柱式和弦,,F,3,83,Country Drifter,,[x-D-E-x-G-A-x],https://youtu.be/Y69RgPlpSlE
+AG-019,B-09,Please Release Me ,柱式和弦,,F,3/-1,88,Dave Monk,Guitar,[x-D-E-x-G-A-x],https://youtu.be/laKPrcSRKwA
+AG-020,B-10,Speak Softly Love,柱式和弦,,,0,70,Golden Country,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/Rq_sO05IzV8
+AG-021,B-11,First of May,柱式和弦,,,0,68,WCM,,,
+AG-022,B-12,The Sound Of Silence,情歌柱式,,F#,1,107,Simon&Garfunkel,,,
+AG-023,B-12,The Sound Of Silence,情歌柱式,,F#,4,86,Vintage Gold Country ,,[x-D-x-x-G-A-Bm] ,https://youtu.be/dSd17JbivEg
+AG-024,B-12,The Sound Of Silence,情歌柱式,,B,4,81,Golden Country,,,
+AG-025,B-13,Blowin' In The Wind,情歌柱式,,Bb,1,72,Jessica Rhaye,彈唱,[x-D-E-x-Gbm-A-x] ,https://youtu.be/oho_DejDTjQ
+AG-026,B-14,Fairy Tale,情歌柱式,,A,0,65,MLTR,,,
+AG-027,B-15,You Raise Me Up,柱式和弦,,Bb,1,59,ViOLiNiA,,,https://youtu.be/aEVYTKo1AM8
+AG-028,B-16,Fly Me To The Moon,柱式和弦,,F,3,91,Golden Country,,[C-D-Em-F#-G-A-Bm],https://youtu.be/wh-qXnGpwZk
+AG-029,B-17,Yesterday When I Was Young,柱式和弦,,Dm,3,83,Dave Monk,Guitar,[x-D-Em-F#-G-A-Bm],https://youtu.be/Boa2KFS0jRQ
+AG-030,B-17,Yesterday When I Was Young,柱式和弦,,Dm,3,86,Vintage Gold Country,,[x-D-Em-F#-G-A-Bm],https://youtu.be/GfPkaQJBc6M
+AG-031,B-18,Tell Laura I Love Her,柱式和弦,,,0,55,Country Drifter,,[C-D-E-F#m-G-A-Bm],https://youtu.be/YA0Faqt58bY
+AG-032,B-19,Unchained Melody,柱式和弦,,,0,70,geoffers,Guitar,,
+AG-033,B-20,Heal The World,柱式和弦,,E,2002/4/6,81,SaxRuby,Saxophone,[C-D-Em-F#m-G-Am-Bm],https://youtu.be/CL8nHuuQ3uI
+AG-034,B-21,Historia de un Amor,情歌柱式,,G#m,4,97,Golden Country,,[C-D-Em-x-x-Am-B],https://youtu.be/htkorePb2so
+AG-035,B-21,Historia de un Amor,情歌柱式,,Cm,3,97,Laura Fygi,Violin,[C-Dm-E-F-G-Am-Bm],https://youtu.be/T2Tpdd6D60U
+AG-036,B-22,The Power of Love,情歌柱式,,Ab,1,70,LUNA ACOUSTIC,Female Vocal,[C-D-Em-x-G-AM-x],https://youtu.be/qTuCkZRAuiw
+AG-037,D-01,My Love ,常用柱式2,,,5,72,Westlife,,,
+AG-038,D-01,My Love ,常用柱式2,,,6,70,,Guitar,,
+AG-039,D-02,That's Why You Go Away,常用分解3,,,0,63,MLTR,Violin,,
+AG-040,D-03,That's Why You Go Away,常用柱式2,流行01,F#,4,60,MLTR,,,
+AG-041,D-04,"Take Me Home, Country Roads",常用分解3,流行01,A,2,83,Dave Monk,Guitar,[C-D-Em-F-G-x-x],https://youtu.be/xiPCDJdn6Y4
+AG-042,D-04,"Take Me Home, Country Roads",常用分解3,流行01,Bb,3,84,AWINmusic,Female Vocal,[C-D-Em-F-G-x-x],https://youtu.be/rYE-HNxslHw
+AG-043,D-04,"Take Me Home, Country Roads",常用分解3,流行01,A,2,79,Dusty Country,Male Vocal,[C-D-Em-F-G-x-x],https://youtu.be/GVonnrGCHOg
+AG-044,D-05,Cottonfield,分解3,,,-1,75,DGJ - Live,Band,[x-D-E-x-x-A-x],https://youtu.be/oZzbWvByPvg
+AG-045,D-05,Cottonfield,分解3,,,-1,75,AWINmusic,Guitar&Violin,[x-D-E-x-x-A-x],https://youtu.be/FDFPCGl89zg
+AG-046,D-05,Cottonfield,分解3,,,-2,75,Diesel Country,Guitar&Violin,[x-D-E-x-x-A-x],
+AG-047,D-06,Chiquitita,常用分解3,,,0,86,Country Time,,,
+AG-048,D-06,Chiquitita,常用分解3,,,0,86,Dave Monk,Guitar,,
+AG-049,D-07,How Can I Tell Her,常用分解1,,D,0,81,Lobo,,,
+AG-050,D-07,How Can I Tell Her,常用分解1,,D,-1,75,Golden Country,,,
+AG-051,D-07,How Can I Tell Her,常用分解1,,D,0,83,Dave Monk,,,
+AG-052,D-08,Can't Help Falling In Love,常用柱式2,,D,2,65,Elvis Presley,Guitar,,
+AG-053,D-08,Can't Help Falling In Love,常用柱式2,,,2,68,,Violin,,
+AG-054,D-09,Five Hundred Miles,課後,,A,2,116,Justin Timberlake,,,
+AG-055,D-10,Seasons in The Sun,常用技巧2,,,1,83,Golden Country,,,
+AG-056,D-11,Jambalaya,常用技巧2,,,0,94,Golden Country,,,
+AG-057,D-12,Red River Valley,常用分解3,,D,0,58,Golden Country,,,https://youtu.be/r4eJqfU7fik
+AG-058,D-13,Lambada,常用分解1,,,3,120,,,,
+AG-059,D-14,If - Bread,平凡分解,,,0,83,Golden Country,,,
+AG-060,D-15,Let It Be - The Beatles,常用掃弦2,,Db,1,73,Golden Country,,,
+AG-061,D-16,Massachusetts,常用分解3,,,0,91,Dave Monk,,,
+AG-062,D-17,Dances With Wolves - John Barry,常用分解3,,F,3,81,Dave Monk,,,
+AG-063,D-18,Right Here Waiting,平凡分解,,C,0,88,Richard Marx,,,
+AG-064,D-19,Love Me Tender - Elvis Presley,常用柱式2,,D,0,75,Elvis Presley,,,
+AG-065,D-20,More Than I Can Say - Leo Sayer,基礎分解5,,Bb,1,97,Chords,彈唱,,
+AG-066,D-20,More Than I Can Say - Leo Sayer,基礎分解5,,Bb,3,97,TrangSinger+,彈唱,,
+AG-067,D-21,Casablanca,常用柱式2,,Bm,0,65,Vintage Gold Country ,,[F#],https://youtu.be/kkw-sXXphIU
+AG-068,D-22,Only You – The Platters,常用分解3,,Eb,1,70,Golden Country,,,
+AG-069,D-23,Tie a Yellow Ribbon Round the Ole Oak Tree,常用技巧2,,C,3,83,Golden Country,,"[F#,F#m]",https://youtu.be/SHn5MgffTIY
+AG-070,D-24,All I Have To Do is Dream,常用柱式2,,,1,47,Golden Country,,,
+AG-071,F-01,Lyin' Eyes,螢火之森,,G,0,130,Eagles,Orchestra,,
+AG-072,F-02,Rhythm of The Rain,螢火之森,,G,3,120,Dave Monk,Guitar,,
+AG-073,F-02,Rhythm of The Rain,螢火之森,,G,3,120,Country Drifter,,,
+AG-074,F-02,Rhythm of The Rain,螢火之森,,Bb,3,115,Na Relo 洋樂,,[C-D-Em-x-G-A-Bm],https://youtu.be/F3zmQRA_qe4
+AG-075,F-03,Rhinestone Cowboy,螢火之森,,Ab,4,125,Golden Country,,,
+AG-076,F-03,Rhinestone Cowboy,螢火之森,,C,0,111,Old Time Country,,[C-D-x-F-G-x-x],https://youtu.be/QM2DLPDniFM
+AG-077,F-04,How Can I Tell Her,螢火之森,,F#,4,75,Golden Country,,,
+AG-078,F-05,Green Green Grass of Home,螢火之森,,G,0,88,geoffers47,,,
+AG-079,F-06,Love Me With All Of Your Heart,螢火之森,,B,2,97,Dave Monk,Guitar,,
+AG-080,F-07,Before The Next Teardrop Falls,螢火之森,,,0,88,Golden Country,,,
+AG-081,F-08,I Just Called To Say I Love You,螢火之森,,C,0/+1,111,Golden Country,,,
+AG-082,F-09,Have you ever seen the rain,螢火之森,,,5,111,Golden Country,,,
+AG-083,F-09,Have you ever seen the rain,螢火之森,,,5,115,Dave Monk,Guitar,,
+AG-084,F-10,Let It Be Me,螢火之森,,,5,75,Kenny Roger,,,
+AG-085,F-11,Me And You And A Dog Named Boo,螢火之森,,F#,4,120,Lobo,,,
+AG-086,F-12,Sad Movies,螢火之森,,,2,115,Country Drifter,,,
+AG-087,F-13,Don't Cry Joni,螢火之森,,,0,94,Golden Country,,,
+AG-088,F-14,To Sir With Love,螢火之森,,,2,103,,,,
+AG-089,F-15,Besame Mucho,螢火之森,,Bbm,1,97,Country Drifter,,[C-D-Em-x-x-Am-B],https://youtu.be/YTxd_WIL8ag
+AG-090,F-16,The Power of Love,螢火之森,,,1,77,OM,,,
+AG-091,H-01,The Last Waltz,三拍分解,,,0,100,Dave Monk,Guitar,,
+AG-092,H-02,Morning Has Broken,三拍分解,,,0,130,,,,
+AG-093,H-03,Unchained Melody,往事膠片,,,0,94,Diesel Country,,,
+AG-094,H-03,Unchained Melody,往事膠片,,Bb,3,100,Island Musica,,,https://youtu.be/Bx1L8wlAG8c
+AG-095,H-04,The Wedding,往事膠片,,G,0,94,Dusty Country,,,
+AG-096,H-05,House of The Rising Sun,往事膠片,,,0,125,,,,
+AG-097,H-06,The End of World,往事膠片,,E,4/+1,97,Diesel Country,,,
+AG-098,H-07,Are You Lonesome Tonight,三拍分解,,C,3,77,Golden Country,,,
+AG-099,H-08,Tennessee Waltz,三拍分解,,G,0,88,Diesel Country,,,
+AG-100,H-09,Que Sera Sera,三拍分解,,Bb,1,167,Country Drifter,,,
+AG-101,H-09,Que Sera Sera,三拍分解,,Bb,1,176,Dave Monk,,,
+AG-102,H-10,Moon River,三拍分解,,,,78,,,,
+AG-103,H-11,I Can't Stop Loving You,往事膠片,,F,3,100,Island Musica,,[x-D-x-x-G-A-x],https://youtu.be/N79vJFnQMo4
+AG-104,C-01,卡農 in Love,分解和弦3,,Eb,3,69,蔡佩軒 (MV),,(C-x-Em-F-G-Am-x),https://youtu.be/YaJ_lYFgr6c
+AG-105,C-01,卡農 in Love,基礎分解,,Eb,3,70,Piano,Piano,(C-x-Em-F-G-Am-x),https://youtu.be/Q8MwTYUQjUk
+AG-106,C-02,愛很簡單,柱式和弦,流行01,,1,70,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-B],https://youtu.be/G6f_DDGCwAc
+AG-107,C-03,你怎麼捨得我難過,柱式和弦,,Dm,5,73,了凡音樂,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/nSFCmnQIlKY
+AG-108,C-04,恰似你的溫柔,情歌柱式,流行03,,5,71,Lumbaba,電子琴,(C-D-Em-x-G-Am-Bm),https://youtu.be/xfaVjiqMagw
+AG-109,C-04,恰似你的溫柔,情歌柱式,流行03,C,0,79,蔡琴,,(C-D-Em-x-G-Am-Bm),https://youtu.be/YhX4ENW_LNk
+AG-110,C-05,攙扶,柱式和弦,,Ab,1,73,男女對唱 AI,,[C-D-Em-F-G-Am-Bm],https://youtu.be/xE8m4s7ZojI
+AG-111,C-05,攙扶,柱式和弦,,,5,73,,電子琴,[C-D-Em-F-G-Am-Bm],https://youtu.be/bi3GZ5BEVBM
+AG-112,C-06,相見恨晚,柱式和弦,,Eb,3,57,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/FII0PemUrd8
+AG-113,C-07,聽海,柱式和弦,,,3,64,,電子琴,,
+AG-114,C-08,抉擇,情歌柱式,,,1,73,蔡琴,,[C-D-Em-x-G-Am-Bm],https://youtu.be/TfsFyoqFsLY
+AG-115,C-09,陪我看日出,情歌柱式,,Eb,1,77,蔡淳佳,,[x-D-Em-F#m-G-A-B],https://youtu.be/AgAWXdG_ck0
+AG-116,C-10,風中的承諾,柱式和弦,,,0,67,???,,[C-D-Em-x-G-Am-Bm],https://youtu.be/UBRalUA681k
+AG-117,C-11,哭砂,柱式和弦,,,0,75,,,,
+AG-118,C-12,墨爾本的秋天,情歌柱式,,E,2,97,,吉他,,
+AG-119,C-12,墨爾本的秋天,情歌柱式,,,-2,97,,,,
+AG-120,C-13,黃昏,情歌柱式,,E,2,75,經典回響,,[x-D-Em-F#m-G-A-Bm],https://youtu.be/-kwsqnkIuT4
+AG-121,C-14,只要你過得比我好,柱式和弦,,Bb,3,81,了凡音樂,,[C-D-Em-F-G-Am-Bm],https://youtu.be/YgHJpxQfB3s
+AG-122,C-15,愛的禮物,柱式和弦3,,,0,120,,,[C-D-x-x-G-Am-B],https://youtu.be/ZON6Ifg9uJ8
+AG-123,C-16,是否,柱式和弦,,B,2,67,了凡音樂,,[x-D-Em-F#m-G-A-B],https://youtu.be/FZajtc1e9kI
+AG-124,C-17,讓我歡喜讓我憂,柱式和弦,,,1,58,了凡音樂,,[C-D-Em-F-G-Am-Bm],
+AG-125,C-18,月半小夜曲,柱式和弦,流行03,,0,73,河合奈保子,,,
+AG-126,C-18,月半小夜曲,柱式和弦,,,3,75,ViolinMomo,Violin,,
+AG-127,E-01,張三的歌,常用技巧2,,,1,75,了凡音樂,,[C-Dm-Em-F-G-Am-Bm],https://youtu.be/F7pc6YKVSrM
+AG-128,E-02,今天你要嫁給我,常用技巧2,流行01,,2,91,蔡依林 陶?,,,
+AG-129,E-03,走在鄉間的小路上 - 齊豫,常用技巧2,,Ebm,4,91,旭歌-Music,,,https://youtu.be/j9H3ZnnhXBQ
+AG-130,E-03,走在鄉間的小路上,常用技巧2,,Bbm,1,91,好聽音樂,,,https://youtu.be/R-qJ9X6YXjs
+AG-131,E-04,外婆的澎湖?,常用技巧2,,E,2,79,旭歌-Music,,,https://youtu.be/Q_dejblgrxg
+AG-132,E-05,童年,常用分解3,,A,2,115,搖滾翻唱,,,https://youtu.be/SZTJI051Pq0
+AG-133,E-05,童年,常用分解3,,F,3,125,微光,,,
+AG-134,E-06,一千個傷心的理由,玩耍,,Bm,0,67,搖滾翻唱,,"[F#, F#m]",https://youtu.be/i0Q_CGYCSaw
+AG-135,E-07,後來,常用柱式2,,Eb,3,75,劉若英,,[C-Dm-Em-F-G-Am-x],https://youtu.be/zEbRxmTHWGE
+AG-136,E-07,後來,常用柱式2,,Eb,3,75,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/qutT5b5vFaA
+AG-137,E-08,再度重相逢,常用分解3,,D,2月3日,94,郁可唯,,,
+AG-138,E-08,再度重相逢,常用分解3,,Eb,3,100,SaxRuby,Saxophone,,
+AG-139,E-09,花心,常用分解2,,,1,103,了凡音樂,,,
+AG-140,E-10,雨中旋律,螢火之森,,B,4,120,,,,
+AG-141,E-11,可可托海的牧羊人,螢火之森,,,1,63,王琪,,,
+AG-142,E-12,光陰的故事 - 羅大佑 ,常用分解3,,F#,4,75,Ayen何璟昕,彈唱,,
+AG-143,E-13,吻別,常用分解2,,,,,,,,
+AG-144,I-01,Cottonfield,分解3,,,-1,75,DGJ - Live,Band,[x-D-E-x-x-A-x],https://youtu.be/OiU4Tr2jluM
+AG-145,I-02,張三的歌,常用技巧2,,,1/+1,75,了凡音樂,,[C-Dm-Em-F-G-Am-Bm],https://youtu.be/qB_FRt-kSv8
+AG-146,I-03,你怎麼捨得我難過,柱式和弦,,Dm,5,73,了凡音樂,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/--2P5FsYRcU
