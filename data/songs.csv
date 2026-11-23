@@ -1,147 +1,162 @@
 ID,AG_No,Title,AG Chord,Drum,Key,Capo,BPM,Artists,Remark,Chord,Youtube_URL
-AG-001,A-01,Canon in D,åŸºç¤åˆ†è§£,,D,2,75,Brooklyn Duo,Cello,[C-x-Em-F-G-A-x],https://youtu.be/Ptk_1Dc2iPY
-AG-002,A-01,Canon in D,åŸºç¤åˆ†è§£,,D,2,70,David Bay,"Violin, Flute & Piano",[C-x-Em-F-G-A-x],https://youtu.be/rxYFWx2ZugM
-AG-003,A-01,Canon in D,åˆ†è§£å’Œå¼¦3,,D,2,77,Marie Leloup,Violin,[C-x-Em-F-G-A-x],https://youtu.be/LPvC_L-QZew
-AG-004,B-01,Perfect,æŸ±å¼å’Œå¼¦,,Ab,1,64,Dave Monk,Guitar,[C-D-Em-x-G-x-x],https://youtu.be/Sd2xC1OX_hQ
-AG-005,B-01,Perfect,æŸ±å¼å’Œå¼¦,,,5,64,Guitar,å½ˆå”±,[C-D-Em-x-G-x-x],https://youtu.be/yDnyXKUsMe4
-AG-006,B-02,I Don't Like To Sleep Alone,æŸ±å¼å’Œå¼¦,,A,3,65,Golden Country,,(C-D-Em-x-G-Am-x),https://youtu.be/C5VeQqx4-PQ
-AG-007,B-03,Hey Jude - The Beatles,æƒ…æ­ŒæŸ±å¼,,Ab,4,68,Dust Country,,[C-D-Em-x-G-A-x],https://youtu.be/KlFle6d3H40
-AG-008,B-04,I'd Love You To Want Me,æŸ±å¼å’Œå¼¦,æµè¡Œ05,Bb,3,73,Lobo,,[C-D-Em-F-G-Am-Bm],https://youtu.be/nCz5C-l3QiQ
-AG-009,B-04,I'd Love You To Want Me,æŸ±å¼å’Œå¼¦,æµè¡Œ05,Bb,3,73,Dave Monk,Guitar,[C-D-Em-F-G-Am-Bm],https://youtu.be/jl6HuzY__Ps
-AG-010,B-04,I'd Love You To Want Me,æŸ±å¼å’Œå¼¦,æµè¡Œ05,Bb,3,77,Golden Country,,[C-D-Em-F-G-Am-Bm],https://youtu.be/98XvnCy0jO0
-AG-011,B-05,Without You,æŸ±å¼å’Œå¼¦,,F#,1,61,Mariah Carey,,[C-Dm-Em-F-Gm-A-Bm],https://youtu.be/MKZ6GQkyg9k
-AG-012,B-05,Without You,æŸ±å¼å’Œå¼¦,,,2,61,ARCANO,Violin,[C-D-Em-F#-Gbm-A-Bm],https://youtu.be/o9FL14Nxbz8
-AG-013,B-06,One Moment in Time,æŸ±å¼å’Œå¼¦,,B,2/+1,75,Dana Winner,,[x-D-E-F#m-x-A-Bm],https://youtu.be/I9B5rFiuQOM
-AG-014,B-06,One Moment in Time,æƒ…æ­ŒæŸ±å¼,,C,3/+1,75,Golden Country,,[x-D-E-F#m-x-A-Bm],https://youtu.be/i2UbgBvWxg4
-AG-015,B-06,One Moment in Time,æƒ…æ­ŒæŸ±å¼,,Ab,4/+1,71,RAMDOR MUSIKA,,[x-D-E-F#m-x-A-Bm],
-AG-016,B-07,Always Remembered Us This Way,æƒ…æ­ŒæŸ±å¼,,,0,65,SaxRuby,Saxophone,[C-x-x-F-G-Am-Bb],https://youtu.be/B0r4pLvTsG4
-AG-017,B-08,Words,æŸ±å¼å’Œå¼¦,,,0,83,Country Time,,,
-AG-018,B-09,Please Release Me ,æŸ±å¼å’Œå¼¦,,F,3,83,Country Drifter,,[x-D-E-x-G-A-x],https://youtu.be/Y69RgPlpSlE
-AG-019,B-09,Please Release Me ,æŸ±å¼å’Œå¼¦,,F,3/-1,88,Dave Monk,Guitar,[x-D-E-x-G-A-x],https://youtu.be/laKPrcSRKwA
-AG-020,B-10,Speak Softly Love,æŸ±å¼å’Œå¼¦,,,0,70,Golden Country,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/Rq_sO05IzV8
-AG-021,B-11,First of May,æŸ±å¼å’Œå¼¦,,,0,68,WCM,,,
-AG-022,B-12,The Sound Of Silence,æƒ…æ­ŒæŸ±å¼,,F#,1,107,Simon&Garfunkel,,,
-AG-023,B-12,The Sound Of Silence,æƒ…æ­ŒæŸ±å¼,,F#,4,86,Vintage Gold Country ,,[x-D-x-x-G-A-Bm] ,https://youtu.be/dSd17JbivEg
-AG-024,B-12,The Sound Of Silence,æƒ…æ­ŒæŸ±å¼,,B,4,81,Golden Country,,,
-AG-025,B-13,Blowin' In The Wind,æƒ…æ­ŒæŸ±å¼,,Bb,1,72,Jessica Rhaye,å½ˆå”±,[x-D-E-x-Gbm-A-x] ,https://youtu.be/oho_DejDTjQ
-AG-026,B-14,Fairy Tale,æƒ…æ­ŒæŸ±å¼,,A,0,65,MLTR,,,
-AG-027,B-15,You Raise Me Up,æŸ±å¼å’Œå¼¦,,Bb,1,59,ViOLiNiA,,,https://youtu.be/aEVYTKo1AM8
-AG-028,B-16,Fly Me To The Moon,æŸ±å¼å’Œå¼¦,,F,3,91,Golden Country,,[C-D-Em-F#-G-A-Bm],https://youtu.be/wh-qXnGpwZk
-AG-029,B-17,Yesterday When I Was Young,æŸ±å¼å’Œå¼¦,,Dm,3,83,Dave Monk,Guitar,[x-D-Em-F#-G-A-Bm],https://youtu.be/Boa2KFS0jRQ
-AG-030,B-17,Yesterday When I Was Young,æŸ±å¼å’Œå¼¦,,Dm,3,86,Vintage Gold Country,,[x-D-Em-F#-G-A-Bm],https://youtu.be/GfPkaQJBc6M
-AG-031,B-18,Tell Laura I Love Her,æŸ±å¼å’Œå¼¦,,,0,55,Country Drifter,,[C-D-E-F#m-G-A-Bm],https://youtu.be/YA0Faqt58bY
-AG-032,B-19,Unchained Melody,æŸ±å¼å’Œå¼¦,,,0,70,geoffers,Guitar,,
-AG-033,B-20,Heal The World,æŸ±å¼å’Œå¼¦,,E,2002/4/6,81,SaxRuby,Saxophone,[C-D-Em-F#m-G-Am-Bm],https://youtu.be/CL8nHuuQ3uI
-AG-034,B-21,Historia de un Amor,æƒ…æ­ŒæŸ±å¼,,G#m,4,97,Golden Country,,[C-D-Em-x-x-Am-B],https://youtu.be/htkorePb2so
-AG-035,B-21,Historia de un Amor,æƒ…æ­ŒæŸ±å¼,,Cm,3,97,Laura Fygi,Violin,[C-Dm-E-F-G-Am-Bm],https://youtu.be/T2Tpdd6D60U
-AG-036,B-22,The Power of Love,æƒ…æ­ŒæŸ±å¼,,Ab,1,70,LUNA ACOUSTIC,Female Vocal,[C-D-Em-x-G-AM-x],https://youtu.be/qTuCkZRAuiw
-AG-037,D-01,My Love ,å¸¸ç”¨æŸ±å¼2,,,5,72,Westlife,,,
-AG-038,D-01,My Love ,å¸¸ç”¨æŸ±å¼2,,,6,70,,Guitar,,
-AG-039,D-02,That's Why You Go Away,å¸¸ç”¨åˆ†è§£3,,,0,63,MLTR,Violin,,
-AG-040,D-03,That's Why You Go Away,å¸¸ç”¨æŸ±å¼2,æµè¡Œ01,F#,4,60,MLTR,,,
-AG-041,D-04,"Take Me Home, Country Roads",å¸¸ç”¨åˆ†è§£3,æµè¡Œ01,A,2,83,Dave Monk,Guitar,[C-D-Em-F-G-x-x],https://youtu.be/xiPCDJdn6Y4
-AG-042,D-04,"Take Me Home, Country Roads",å¸¸ç”¨åˆ†è§£3,æµè¡Œ01,Bb,3,84,AWINmusic,Female Vocal,[C-D-Em-F-G-x-x],https://youtu.be/rYE-HNxslHw
-AG-043,D-04,"Take Me Home, Country Roads",å¸¸ç”¨åˆ†è§£3,æµè¡Œ01,A,2,79,Dusty Country,Male Vocal,[C-D-Em-F-G-x-x],https://youtu.be/GVonnrGCHOg
-AG-044,D-05,Cottonfield,åˆ†è§£3,,,-1,75,DGJ - Live,Band,[x-D-E-x-x-A-x],https://youtu.be/oZzbWvByPvg
-AG-045,D-05,Cottonfield,åˆ†è§£3,,,-1,75,AWINmusic,Guitar&Violin,[x-D-E-x-x-A-x],https://youtu.be/FDFPCGl89zg
-AG-046,D-05,Cottonfield,åˆ†è§£3,,,-2,75,Diesel Country,Guitar&Violin,[x-D-E-x-x-A-x],
-AG-047,D-06,Chiquitita,å¸¸ç”¨åˆ†è§£3,,,0,86,Country Time,,,
-AG-048,D-06,Chiquitita,å¸¸ç”¨åˆ†è§£3,,,0,86,Dave Monk,Guitar,,
-AG-049,D-07,How Can I Tell Her,å¸¸ç”¨åˆ†è§£1,,D,0,81,Lobo,,,
-AG-050,D-07,How Can I Tell Her,å¸¸ç”¨åˆ†è§£1,,D,-1,75,Golden Country,,,
-AG-051,D-07,How Can I Tell Her,å¸¸ç”¨åˆ†è§£1,,D,0,83,Dave Monk,,,
-AG-052,D-08,Can't Help Falling In Love,å¸¸ç”¨æŸ±å¼2,,D,2,65,Elvis Presley,Guitar,,
-AG-053,D-08,Can't Help Falling In Love,å¸¸ç”¨æŸ±å¼2,,,2,68,,Violin,,
-AG-054,D-09,Five Hundred Miles,èª²å¾Œ,,A,2,116,Justin Timberlake,,,
-AG-055,D-10,Seasons in The Sun,å¸¸ç”¨æŠ€å·§2,,,1,83,Golden Country,,,
-AG-056,D-11,Jambalaya,å¸¸ç”¨æŠ€å·§2,,,0,94,Golden Country,,,
-AG-057,D-12,Red River Valley,å¸¸ç”¨åˆ†è§£3,,D,0,58,Golden Country,,,https://youtu.be/r4eJqfU7fik
-AG-058,D-13,Lambada,å¸¸ç”¨åˆ†è§£1,,,3,120,,,,
-AG-059,D-14,If - Bread,å¹³å‡¡åˆ†è§£,,,0,83,Golden Country,,,
-AG-060,D-15,Let It Be - The Beatles,å¸¸ç”¨æƒå¼¦2,,Db,1,73,Golden Country,,,
-AG-061,D-16,Massachusetts,å¸¸ç”¨åˆ†è§£3,,,0,91,Dave Monk,,,
-AG-062,D-17,Dances With Wolves - John Barry,å¸¸ç”¨åˆ†è§£3,,F,3,81,Dave Monk,,,
-AG-063,D-18,Right Here Waiting,å¹³å‡¡åˆ†è§£,,C,0,88,Richard Marx,,,
-AG-064,D-19,Love Me Tender - Elvis Presley,å¸¸ç”¨æŸ±å¼2,,D,0,75,Elvis Presley,,,
-AG-065,D-20,More Than I Can Say - Leo Sayer,åŸºç¤åˆ†è§£5,,Bb,1,97,Chords,å½ˆå”±,,
-AG-066,D-20,More Than I Can Say - Leo Sayer,åŸºç¤åˆ†è§£5,,Bb,3,97,TrangSinger+,å½ˆå”±,,
-AG-067,D-21,Casablanca,å¸¸ç”¨æŸ±å¼2,,Bm,0,65,Vintage Gold Country ,,[F#],https://youtu.be/kkw-sXXphIU
-AG-068,D-22,Only You â€“ The Platters,å¸¸ç”¨åˆ†è§£3,,Eb,1,70,Golden Country,,,
-AG-069,D-23,Tie a Yellow Ribbon Round the Ole Oak Tree,å¸¸ç”¨æŠ€å·§2,,C,3,83,Golden Country,,"[F#,F#m]",https://youtu.be/SHn5MgffTIY
-AG-070,D-24,All I Have To Do is Dream,å¸¸ç”¨æŸ±å¼2,,,1,47,Golden Country,,,
-AG-071,F-01,Lyin' Eyes,è¢ç«ä¹‹æ£®,,G,0,130,Eagles,Orchestra,,
-AG-072,F-02,Rhythm of The Rain,è¢ç«ä¹‹æ£®,,G,3,120,Dave Monk,Guitar,,
-AG-073,F-02,Rhythm of The Rain,è¢ç«ä¹‹æ£®,,G,3,120,Country Drifter,,,
-AG-074,F-02,Rhythm of The Rain,è¢ç«ä¹‹æ£®,,Bb,3,115,Na Relo æ´‹æ¨‚,,[C-D-Em-x-G-A-Bm],https://youtu.be/F3zmQRA_qe4
-AG-075,F-03,Rhinestone Cowboy,è¢ç«ä¹‹æ£®,,Ab,4,125,Golden Country,,,
-AG-076,F-03,Rhinestone Cowboy,è¢ç«ä¹‹æ£®,,C,0,111,Old Time Country,,[C-D-x-F-G-x-x],https://youtu.be/QM2DLPDniFM
-AG-077,F-04,How Can I Tell Her,è¢ç«ä¹‹æ£®,,F#,4,75,Golden Country,,,
-AG-078,F-05,Green Green Grass of Home,è¢ç«ä¹‹æ£®,,G,0,88,geoffers47,,,
-AG-079,F-06,Love Me With All Of Your Heart,è¢ç«ä¹‹æ£®,,B,2,97,Dave Monk,Guitar,,
-AG-080,F-07,Before The Next Teardrop Falls,è¢ç«ä¹‹æ£®,,,0,88,Golden Country,,,
-AG-081,F-08,I Just Called To Say I Love You,è¢ç«ä¹‹æ£®,,C,0/+1,111,Golden Country,,,
-AG-082,F-09,Have you ever seen the rain,è¢ç«ä¹‹æ£®,,,5,111,Golden Country,,,
-AG-083,F-09,Have you ever seen the rain,è¢ç«ä¹‹æ£®,,,5,115,Dave Monk,Guitar,,
-AG-084,F-10,Let It Be Me,è¢ç«ä¹‹æ£®,,,5,75,Kenny Roger,,,
-AG-085,F-11,Me And You And A Dog Named Boo,è¢ç«ä¹‹æ£®,,F#,4,120,Lobo,,,
-AG-086,F-12,Sad Movies,è¢ç«ä¹‹æ£®,,,2,115,Country Drifter,,,
-AG-087,F-13,Don't Cry Joni,è¢ç«ä¹‹æ£®,,,0,94,Golden Country,,,
-AG-088,F-14,To Sir With Love,è¢ç«ä¹‹æ£®,,,2,103,,,,
-AG-089,F-15,Besame Mucho,è¢ç«ä¹‹æ£®,,Bbm,1,97,Country Drifter,,[C-D-Em-x-x-Am-B],https://youtu.be/YTxd_WIL8ag
-AG-090,F-16,The Power of Love,è¢ç«ä¹‹æ£®,,,1,77,OM,,,
-AG-091,H-01,The Last Waltz,ä¸‰æ‹åˆ†è§£,,,0,100,Dave Monk,Guitar,,
-AG-092,H-02,Morning Has Broken,ä¸‰æ‹åˆ†è§£,,,0,130,,,,
-AG-093,H-03,Unchained Melody,å¾€äº‹è† ç‰‡,,,0,94,Diesel Country,,,
-AG-094,H-03,Unchained Melody,å¾€äº‹è† ç‰‡,,Bb,3,100,Island Musica,,,https://youtu.be/Bx1L8wlAG8c
-AG-095,H-04,The Wedding,å¾€äº‹è† ç‰‡,,G,0,94,Dusty Country,,,
-AG-096,H-05,House of The Rising Sun,å¾€äº‹è† ç‰‡,,,0,125,,,,
-AG-097,H-06,The End of World,å¾€äº‹è† ç‰‡,,E,4/+1,97,Diesel Country,,,
-AG-098,H-07,Are You Lonesome Tonight,ä¸‰æ‹åˆ†è§£,,C,3,77,Golden Country,,,
-AG-099,H-08,Tennessee Waltz,ä¸‰æ‹åˆ†è§£,,G,0,88,Diesel Country,,,
-AG-100,H-09,Que Sera Sera,ä¸‰æ‹åˆ†è§£,,Bb,1,167,Country Drifter,,,
-AG-101,H-09,Que Sera Sera,ä¸‰æ‹åˆ†è§£,,Bb,1,176,Dave Monk,,,
-AG-102,H-10,Moon River,ä¸‰æ‹åˆ†è§£,,,,78,,,,
-AG-103,H-11,I Can't Stop Loving You,å¾€äº‹è† ç‰‡,,F,3,100,Island Musica,,[x-D-x-x-G-A-x],https://youtu.be/N79vJFnQMo4
-AG-104,C-01,å¡è¾² in Love,åˆ†è§£å’Œå¼¦3,,Eb,3,69,è”¡ä½©è»’ (MV),,(C-x-Em-F-G-Am-x),https://youtu.be/YaJ_lYFgr6c
-AG-105,C-01,å¡è¾² in Love,åŸºç¤åˆ†è§£,,Eb,3,70,Piano,Piano,(C-x-Em-F-G-Am-x),https://youtu.be/Q8MwTYUQjUk
-AG-106,C-02,æ„›å¾ˆç°¡å–®,æŸ±å¼å’Œå¼¦,æµè¡Œ01,,1,70,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-B],https://youtu.be/G6f_DDGCwAc
-AG-107,C-03,ä½ æ€éº¼æ¨å¾—æˆ‘é›£é,æŸ±å¼å’Œå¼¦,,Dm,5,73,äº†å‡¡éŸ³æ¨‚,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/nSFCmnQIlKY
-AG-108,C-04,æ°ä¼¼ä½ çš„æº«æŸ”,æƒ…æ­ŒæŸ±å¼,æµè¡Œ03,,5,71,Lumbaba,é›»å­ç´,(C-D-Em-x-G-Am-Bm),https://youtu.be/xfaVjiqMagw
-AG-109,C-04,æ°ä¼¼ä½ çš„æº«æŸ”,æƒ…æ­ŒæŸ±å¼,æµè¡Œ03,C,0,79,è”¡ç´,,(C-D-Em-x-G-Am-Bm),https://youtu.be/YhX4ENW_LNk
-AG-110,C-05,æ”™æ‰¶,æŸ±å¼å’Œå¼¦,,Ab,1,73,ç”·å¥³å°å”± AI,,[C-D-Em-F-G-Am-Bm],https://youtu.be/xE8m4s7ZojI
-AG-111,C-05,æ”™æ‰¶,æŸ±å¼å’Œå¼¦,,,5,73,,é›»å­ç´,[C-D-Em-F-G-Am-Bm],https://youtu.be/bi3GZ5BEVBM
-AG-112,C-06,ç›¸è¦‹æ¨æ™š,æŸ±å¼å’Œå¼¦,,Eb,3,57,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/FII0PemUrd8
-AG-113,C-07,è½æµ·,æŸ±å¼å’Œå¼¦,,,3,64,,é›»å­ç´,,
-AG-114,C-08,æŠ‰æ“‡,æƒ…æ­ŒæŸ±å¼,,,1,73,è”¡ç´,,[C-D-Em-x-G-Am-Bm],https://youtu.be/TfsFyoqFsLY
-AG-115,C-09,é™ªæˆ‘çœ‹æ—¥å‡º,æƒ…æ­ŒæŸ±å¼,,Eb,1,77,è”¡æ·³ä½³,,[x-D-Em-F#m-G-A-B],https://youtu.be/AgAWXdG_ck0
-AG-116,C-10,é¢¨ä¸­çš„æ‰¿è«¾,æŸ±å¼å’Œå¼¦,,,0,67,???,,[C-D-Em-x-G-Am-Bm],https://youtu.be/UBRalUA681k
-AG-117,C-11,å“­ç ‚,æŸ±å¼å’Œå¼¦,,,0,75,,,,
-AG-118,C-12,å¢¨çˆ¾æœ¬çš„ç§‹å¤©,æƒ…æ­ŒæŸ±å¼,,E,2,97,,å‰ä»–,,
-AG-119,C-12,å¢¨çˆ¾æœ¬çš„ç§‹å¤©,æƒ…æ­ŒæŸ±å¼,,,-2,97,,,,
-AG-120,C-13,é»ƒæ˜,æƒ…æ­ŒæŸ±å¼,,E,2,75,ç¶“å…¸å›éŸ¿,,[x-D-Em-F#m-G-A-Bm],https://youtu.be/-kwsqnkIuT4
-AG-121,C-14,åªè¦ä½ éå¾—æ¯”æˆ‘å¥½,æŸ±å¼å’Œå¼¦,,Bb,3,81,äº†å‡¡éŸ³æ¨‚,,[C-D-Em-F-G-Am-Bm],https://youtu.be/YgHJpxQfB3s
-AG-122,C-15,æ„›çš„ç¦®ç‰©,æŸ±å¼å’Œå¼¦3,,,0,120,,,[C-D-x-x-G-Am-B],https://youtu.be/ZON6Ifg9uJ8
-AG-123,C-16,æ˜¯å¦,æŸ±å¼å’Œå¼¦,,B,2,67,äº†å‡¡éŸ³æ¨‚,,[x-D-Em-F#m-G-A-B],https://youtu.be/FZajtc1e9kI
-AG-124,C-17,è®“æˆ‘æ­¡å–œè®“æˆ‘æ†‚,æŸ±å¼å’Œå¼¦,,,1,58,äº†å‡¡éŸ³æ¨‚,,[C-D-Em-F-G-Am-Bm],
-AG-125,C-18,æœˆåŠå°å¤œæ›²,æŸ±å¼å’Œå¼¦,æµè¡Œ03,,0,73,æ²³åˆå¥ˆä¿å­,,,
-AG-126,C-18,æœˆåŠå°å¤œæ›²,æŸ±å¼å’Œå¼¦,,,3,75,ViolinMomo,Violin,,
-AG-127,E-01,å¼µä¸‰çš„æ­Œ,å¸¸ç”¨æŠ€å·§2,,,1,75,äº†å‡¡éŸ³æ¨‚,,[C-Dm-Em-F-G-Am-Bm],https://youtu.be/F7pc6YKVSrM
-AG-128,E-02,ä»Šå¤©ä½ è¦å«çµ¦æˆ‘,å¸¸ç”¨æŠ€å·§2,æµè¡Œ01,,2,91,è”¡ä¾æ— é™¶?,,,
-AG-129,E-03,èµ°åœ¨é„‰é–“çš„å°è·¯ä¸Š - é½Šè±«,å¸¸ç”¨æŠ€å·§2,,Ebm,4,91,æ—­æ­Œ-Music,,,https://youtu.be/j9H3ZnnhXBQ
-AG-130,E-03,èµ°åœ¨é„‰é–“çš„å°è·¯ä¸Š,å¸¸ç”¨æŠ€å·§2,,Bbm,1,91,å¥½è½éŸ³æ¨‚,,,https://youtu.be/R-qJ9X6YXjs
-AG-131,E-04,å¤–å©†çš„æ¾æ¹–?,å¸¸ç”¨æŠ€å·§2,,E,2,79,æ—­æ­Œ-Music,,,https://youtu.be/Q_dejblgrxg
-AG-132,E-05,ç«¥å¹´,å¸¸ç”¨åˆ†è§£3,,A,2,115,æ–æ»¾ç¿»å”±,,,https://youtu.be/SZTJI051Pq0
-AG-133,E-05,ç«¥å¹´,å¸¸ç”¨åˆ†è§£3,,F,3,125,å¾®å…‰,,,
-AG-134,E-06,ä¸€åƒå€‹å‚·å¿ƒçš„ç†ç”±,ç©è€,,Bm,0,67,æ–æ»¾ç¿»å”±,,"[F#, F#m]",https://youtu.be/i0Q_CGYCSaw
-AG-135,E-07,å¾Œä¾†,å¸¸ç”¨æŸ±å¼2,,Eb,3,75,åŠ‰è‹¥è‹±,,[C-Dm-Em-F-G-Am-x],https://youtu.be/zEbRxmTHWGE
-AG-136,E-07,å¾Œä¾†,å¸¸ç”¨æŸ±å¼2,,Eb,3,75,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/qutT5b5vFaA
-AG-137,E-08,å†åº¦é‡ç›¸é€¢,å¸¸ç”¨åˆ†è§£3,,D,2æœˆ3æ—¥,94,éƒå¯å”¯,,,
-AG-138,E-08,å†åº¦é‡ç›¸é€¢,å¸¸ç”¨åˆ†è§£3,,Eb,3,100,SaxRuby,Saxophone,,
-AG-139,E-09,èŠ±å¿ƒ,å¸¸ç”¨åˆ†è§£2,,,1,103,äº†å‡¡éŸ³æ¨‚,,,
-AG-140,E-10,é›¨ä¸­æ—‹å¾‹,è¢ç«ä¹‹æ£®,,B,4,120,,,,
-AG-141,E-11,å¯å¯æ‰˜æµ·çš„ç‰§ç¾Šäºº,è¢ç«ä¹‹æ£®,,,1,63,ç‹çª,,,
-AG-142,E-12,å…‰é™°çš„æ•…äº‹ - ç¾…å¤§ä½‘ ,å¸¸ç”¨åˆ†è§£3,,F#,4,75,Ayenä½•ç’Ÿæ˜•,å½ˆå”±,,
-AG-143,E-13,å»åˆ¥,å¸¸ç”¨åˆ†è§£2,,,,,,,,
-AG-144,I-01,Cottonfield,åˆ†è§£3,,,-1,75,DGJ - Live,Band,[x-D-E-x-x-A-x],https://youtu.be/OiU4Tr2jluM
-AG-145,I-02,å¼µä¸‰çš„æ­Œ,å¸¸ç”¨æŠ€å·§2,,,1/+1,75,äº†å‡¡éŸ³æ¨‚,,[C-Dm-Em-F-G-Am-Bm],https://youtu.be/qB_FRt-kSv8
-AG-146,I-03,ä½ æ€éº¼æ¨å¾—æˆ‘é›£é,æŸ±å¼å’Œå¼¦,,Dm,5,73,äº†å‡¡éŸ³æ¨‚,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/--2P5FsYRcU
+AG-001,A-01,Canon in D,°òÂ¦¤À¸Ñ,,D,2,75,Brooklyn Duo,Cello,[C-x-Em-F-G-Am-x],https://youtu.be/Ptk_1Dc2iPY
+AG-002,A-01,Canon in D,°òÂ¦¤À¸Ñ,,D,2,70,David Bay,"Violin, Flute & Piano",[C-x-Em-F-G-Am-x],https://youtu.be/rxYFWx2ZugM
+AG-003,A-01,Canon in D,¤À¸Ñ©M©¶3,,D,2,77,Marie Leloup,Violin,[C-x-Em-F-G-Am-x],https://youtu.be/LPvC_L-QZew
+AG-004,B-01,Perfect,¬W¦¡©M©¶,,Ab,1,64,Dave Monk,Guitar,[C-D-Em-x-G-x-x],https://youtu.be/Sd2xC1OX_hQ
+AG-005,B-01,Perfect,¬W¦¡©M©¶,,,5,64,Guitar,¦N¥L¼u°Û,[C-D-Em-x-G-x-x],https://youtu.be/yDnyXKUsMe4
+AG-006,B-02,I Don't Like To Sleep Alone,¬W¦¡©M©¶,,A,3,65,Country Drifter,,[C-D-Em-x-G-Am-x],https://youtu.be/C5VeQqx4-PQ
+AG-007,B-03,Hey Jude - The Beatles,±¡ºq¬W¦¡,,Ab,4,68,Dust Country,,[C-D-Em-x-G-A-x],https://youtu.be/KlFle6d3H40
+AG-008,B-04,I'd Love You To Want Me,¬W¦¡©M©¶,¬y¦æ05,Bb,3,73,Lobo,,[C-D-Em-F-G-Am-Bm],https://youtu.be/nCz5C-l3QiQ
+AG-009,B-04,I'd Love You To Want Me,¬W¦¡©M©¶,¬y¦æ05,Bb,3,73,Dave Monk,Guitar,[C-D-Em-F-G-Am-Bm],https://youtu.be/jl6HuzY__Ps
+AG-010,B-04,I'd Love You To Want Me,¬W¦¡©M©¶,¬y¦æ05,Bb,3,77,Golden Country,,[C-D-Em-F-G-Am-Bm],https://youtu.be/98XvnCy0jO0
+AG-011,B-05,Without You,¬W¦¡©M©¶,,F#,1,61,Mariah Carey,,[C-Dm-Em-F-Gm-A-Bm],https://youtu.be/MKZ6GQkyg9k
+AG-012,B-05,Without You,¬W¦¡©M©¶,,,2,61,ARCANO,Violin,[C-D-Em-F#-Gbm-A-Bm],https://youtu.be/o9FL14Nxbz8
+AG-013,B-06,One Moment in Time,¬W¦¡©M©¶,,B,2/+1,75,Dana Winner,,[x-D-E-F#m-x-A-Bm],https://youtu.be/I9B5rFiuQOM
+AG-014,B-06,One Moment in Time,±¡ºq¬W¦¡,,C,3/+1,75,Golden Country,,[x-D-E-F#m-x-A-Bm],https://youtu.be/i2UbgBvWxg4
+AG-015,B-06,One Moment in Time,±¡ºq¬W¦¡,,Ab,4/+1,71,RAMDOR MUSIKA,,[x-D-E-F#m-x-A-Bm],
+AG-016,B-07,Always Remembered Us This Way,±¡ºq¬W¦¡,,,0,65,SaxRuby,Saxophone,[C-x-x-F-G-Am-Bb],https://youtu.be/B0r4pLvTsG4
+AG-017,B-08,Words,¬W¦¡©M©¶,,,0,83,Country Time,,,
+AG-018,B-09,Please Release Me ,¬W¦¡©M©¶,,F,3,83,Country Drifter,,[x-D-E-x-G-A-x],https://youtu.be/Y69RgPlpSlE
+AG-019,B-09,Please Release Me ,¬W¦¡©M©¶,,F,3/-1,88,Dave Monk,Guitar,[x-D-E-x-G-A-x],https://youtu.be/laKPrcSRKwA
+AG-020,B-10,Speak Softly Love,¬W¦¡©M©¶,,,0,70,Golden Country,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/Rq_sO05IzV8
+AG-021,B-11,First of May,¬W¦¡©M©¶,,,0,68,WCM,,,
+AG-022,B-12,The Sound Of Silence,±¡ºq¬W¦¡,,F#,1,107,Simon&Garfunkel,,,
+AG-023,B-12,The Sound Of Silence,±¡ºq¬W¦¡,,F#,4,86,Vintage Gold Country ,,[x-D-x-x-G-A-Bm] ,https://youtu.be/dSd17JbivEg
+AG-024,B-12,The Sound Of Silence,±¡ºq¬W¦¡,,B,4,81,Golden Country,,[C-D-Em-x-G-x-x] ,https://youtu.be/pi8WhDL9rsM
+AG-025,B-13,Blowin' In The Wind,±¡ºq¬W¦¡,,Bb,1,72,Jessica Rhaye,¦N¥L¼u°Û,[x-D-E-x-Gbm-A-x] ,https://youtu.be/oho_DejDTjQ
+AG-026,B-14,Fairy Tale,±¡ºq¬W¦¡,,A,0,65,MLTR,,,
+AG-027,B-15,You Raise Me Up,¬W¦¡©M©¶,,G,3,59,ViOLiNiA,,[C#m-D-E-x-G-A-B] ,https://youtu.be/aEVYTKo1AM8
+AG-028,B-16,Fly Me To The Moon,¬W¦¡©M©¶,,F,3,91,Golden Country,,[C-D-Em-F#-G-A-Bm],https://youtu.be/wh-qXnGpwZk
+AG-029,B-17,Yesterday When I Was Young,¬W¦¡©M©¶,,Dm,3,83,Dave Monk,Guitar,[x-D-Em-F#-G-A-Bm],https://youtu.be/Boa2KFS0jRQ
+AG-030,B-17,Yesterday When I Was Young,¬W¦¡©M©¶,,Dm,3,86,Vintage Gold Country,,[x-D-Em-F#-G-A-Bm],https://youtu.be/GfPkaQJBc6M
+AG-031,B-18,Tell Laura I Love Her,¬W¦¡©M©¶,,,0,55,Country Drifter,,[C-D-E-F#m-G-A-Bm],https://youtu.be/YA0Faqt58bY
+AG-032,B-19,Unchained Melody,¬W¦¡©M©¶,,,0,70,geoffers,Guitar,[C-D#-Em-F-G-Am-Bb],https://youtu.be/S_qgZyhjjLs
+AG-033,B-20,Heal The World,¬W¦¡©M©¶,,E,2/4/6,81,SaxRuby,Saxophone,[C-D-Em-F#m-G-Am-Bm],https://youtu.be/CL8nHuuQ3uI
+AG-034,B-21,Historia de un Amor,±¡ºq¬W¦¡,,G#m,4,97,Golden Country,,[C-D-Em-x-x-Am-B],https://youtu.be/htkorePb2so
+AG-035,B-21,Historia de un Amor,±¡ºq¬W¦¡,,Cm,3,97,Laura Fygi,Violin,[C-Dm-E-F-G-Am-Bm],https://youtu.be/T2Tpdd6D60U
+AG-036,B-22,The Power of Love,±¡ºq¬W¦¡,,Ab,1,70,LUNA ACOUSTIC,Female Vocal,[C-D-Em-x-G-AM-x],https://youtu.be/qTuCkZRAuiw
+AG-037,D-01,My Love ,±`¥Î¬W¦¡2;¬W¦¡©M©¶,,Gm,5,72,[MV] Westlife,,[C-D-Em-x-G-A-Bm/B],https://youtu.be/ddSnl5PXVJI
+AG-038,D-01,My Love ,±`¥Î¬W¦¡2;¬W¦¡©M©¶,,Gm,6,70,Westlife (@yingying),Guitar,[C-D-Em-x-G-A-Bm/B],https://youtu.be/RX6N6vZrjPA
+AG-039,D-02,That's Why You Go Away,±`¥Î¤À¸Ñ3;¬W¦¡©M©¶,,G,0,64,MLTR,Violin,[C-D-Em-F-G-Am-B],https://youtu.be/3u8m2aDaptI
+AG-040,D-02,That's Why You Go Away,±`¥Î¬W¦¡2;¬W¦¡©M©¶,¬y¦æ01,G,0,63,MLTR (@yingying),,[C-D-Em-F-G-Am-B],https://youtu.be/Wfe5a8ZgYHw
+AG-041,D-03,Take Me to Your Heart,±`¥Î¬W¦¡2;¬W¦¡©M©¶,¬y¦æ01,,4,60,MLTR (@yingying),Guitar,[x-D-Em-F#m-G-A-Bm],https://youtu.be/gNKKhZtoPCM
+AG-042,D-03,Take Me to Your Heart,±`¥Î¬W¦¡2;¬W¦¡©M©¶,¬y¦æ01,,4,60,Momo Tian,Violin,[x-D-Em-F#m-G-A-Bm],https://youtu.be/3leribLgqs0
+AG-043,D-03,Take Me to Your Heart,±`¥Î¬W¦¡2;¬W¦¡©M©¶,¬y¦æ01,,4,60,MLTR (@yingying),,[x-D-Em-F#m-G-A-Bm],https://youtu.be/YJAP-deToqU
+AG-044,D-04,"Take Me Home, Country Roads",±`¥Î¤À¸Ñ3,,A,2,83,Dave Monk,Guitar,[C-D-Em-F-G-x-x],https://youtu.be/xiPCDJdn6Y4
+AG-045,D-04,"Take Me Home, Country Roads",±`¥Î¤À¸Ñ3,,Bb,3,84,AWINmusic,Female Vocal,[C-D-Em-F-G-x-x],https://youtu.be/rYE-HNxslHw
+AG-046,D-04,"Take Me Home, Country Roads",±`¥Î¤À¸Ñ3,,A,2,79,Dusty Country,Male Vocal,[C-D-Em-F-G-x-x],https://youtu.be/GVonnrGCHOg
+AG-047,D-04,"Take Me Home, Country Roads",±`¥Î¤À¸Ñ3,,,2,88,John Denver,,[C-D-Em-F-G-x-x],https://youtu.be/IUmnTfsY3hI
+AG-048,D-05,Cottonfield,¤À¸Ñ3,,,0,75,DGJ - Live,Band,[x-D-E-x-x-A-x],https://youtu.be/oZzbWvByPvg
+AG-049,D-05,Cottonfield,¤À¸Ñ3,,,-1,75,AWINmusic,Guitar&Violin,[x-D-E-x-x-A-x],https://youtu.be/FDFPCGl89zg
+AG-050,D-05,Cottonfield,¤À¸Ñ3,,,-2,75,Diesel Country,,[x-D-E-x-x-A-x],https://youtu.be/DXFDtOhw0NI
+AG-051,D-06,Chiquitita,±`¥Î¤À¸Ñ3,,,0,86,Country Time,,(C#m-D-E-X-X-A-X),https://youtu.be/wEnlHlmTJgA
+AG-052,D-06,Chiquitita,±`¥Î¤À¸Ñ3,,,0,86,Dave Monk,Guitar,(C#m-D-E-X-X-A-X),https://youtu.be/3VmiRCfSXSk
+AG-053,D-07,How Can I Tell Her,±`¥Î¤À¸Ñ1,,D,0,81,Lobo,,(C-D-Em-F#m-G-A-Bm),https://youtu.be/-nKTgPQpqK8
+AG-054,D-07,How Can I Tell Her,±`¥Î¤À¸Ñ1,,D,-1,75,Golden Country,,(C-D-Em-F#m-G-A-Bm),https://youtu.be/J6mla_lyqfo
+AG-055,D-07,How Can I Tell Her,±`¥Î¤À¸Ñ1,,D,0,83,Dave Monk,,(C-D-Em-F#m-G-A-Bm),https://youtu.be/MBXzVw-tfp8
+AG-056,D-08,Can't Help Falling In Love,±`¥Î¬W¦¡2,,D,2,65,ZZang KARAOKE,Karaoke,(C-Dm-Em-F-G-Am-B),https://youtu.be/g8NQggVeW98
+AG-057,D-08,Can't Help Falling In Love,±`¥Î¬W¦¡2,,,2,68,ViOLiNiA,Violin,(C-Dm-Em-F-G-Am-B),https://youtu.be/wAN-D-ftAG0
+AG-058,D-09,Five Hundred Miles,½Ò«á,,A,2,115,Justin Timberlake,,[C-D-Em-x-G-Am-x],https://youtu.be/4ExNM0RrH0o
+AG-059,D-10,Seasons in The Sun,±`¥Î§Ş¥©2,,,1,83,Golden Country,,(C-D-Em-F-G-x-x),https://youtu.be/btS83GsmlS4
+AG-060,D-11,Jambalaya,±`¥Î§Ş¥©2,,,0,94,Golden Country,,[C - G - G -C],https://youtu.be/W5wLok0r8eQ
+AG-061,D-12,Red River Valley,±`¥Î¤À¸Ñ3,,D,0,58,Golden Country,,[x-D-x-x-G-A-Bm],https://youtu.be/r4eJqfU7fik
+AG-062,D-13,Lambada,¤À¸Ñ3,,,3,120,,,[x-D-Em-x-G-A-Bm)],https://youtu.be/XokU9or7JOw
+AG-063,D-14,If - Bread,¥­¤Z¤À¸Ñ;¤ë¥úº§­Ê,,,0,83,Golden Country,,"[C#,C#m,F#,F#m]",https://youtu.be/rY6C4_Xid78
+AG-064,D-15,Let It Be - The Beatles,±`¥Î±½©¶2,,Db,1,73,Golden Country,,,
+AG-065,D-16,Massachusetts,±`¥Î¤À¸Ñ3,,G,0,100,geoffers,,[C-D-x-x-G-Am-x],https://youtu.be/KKQVS5YYILM
+AG-066,D-17,Dances With Wolves - John Barry,±`¥Î¤À¸Ñ3,,F,3,79,geoffers,Guitar,[C-Dm-Em-x-G-Am/A-Bm/Bb],https://youtu.be/zW_IaJKA3lQ
+AG-067,D-18,Right Here Waiting,¥­¤Z¤À¸Ñ,,C,0,88,Richard Marx,,,
+AG-068,D-19,Love Me Tender - Elvis Presley,±`¥Î¬W¦¡2,,D,0,75,Elvis Presley,,,
+AG-069,D-20,More Than I Can Say - Leo Sayer,°òÂ¦¤À¸Ñ5,,Bb,1,91,Cowgirl Song,¦N¥L¼u°Û,[C-D-Em-x-G-Am-Bm],https://youtu.be/uRpGvbnoL6Y
+AG-070,D-20,More Than I Can Say - Leo Sayer,°òÂ¦¤À¸Ñ5,,Bb,3,97,TrangSinger+,¦N¥L¼u°Û,[C-D-Em-x-G-Am-Bm],https://youtu.be/D21WXgqDSw4
+AG-071,D-21,Casablanca,±`¥Î¬W¦¡2,,Bm,0,65,Vintage Gold Country ,,[F#],https://youtu.be/kkw-sXXphIU
+AG-072,D-22,Only You ¡V The Platters,±`¥Î¤À¸Ñ3,,Eb,1,70,Golden Country,,,
+AG-073,D-23,Tie a Yellow Ribbon Round the Ole Oak Tree,±`¥Î§Ş¥©2,,C,3,83,Golden Country,,"[F#,F#m]",https://youtu.be/SHn5MgffTIY
+AG-074,D-24,All I Have To Do is Dream,±`¥Î¬W¦¡2,,,1,47,Golden Country,,[F#m],https://youtu.be/HopqPy8dn1g
+AG-075,F-01,Lyin' Eyes,¿Ã¤õ¤§´Ë,,G,0,130,Eagles,Band,(C-D-Em-x-G-Am/A-x),https://youtu.be/FLTB8kMFav8
+AG-076,F-02,Rhythm of The Rain,¿Ã¤õ¤§´Ë,,G,3,120,Dave Monk,Guitar,(x-D-x-F#m-G-A-Bm),https://youtu.be/KEm9wdLYw9U
+AG-077,F-02,Rhythm of The Rain,¿Ã¤õ¤§´Ë,,G,3,103,Country Drifter,,(x-D-x-F#m-G-A-Bm),https://youtu.be/XBlcEtu8SwE
+AG-078,F-02,Rhythm of The Rain,¿Ã¤õ¤§´Ë,,Bb,3,115,Na Relo ¬v¼Ö,,[C-D-Em-x-G-A-Bm],https://youtu.be/F3zmQRA_qe4
+AG-079,F-03,Rhinestone Cowboy,¿Ã¤õ¤§´Ë,,Ab,4,125,Golden Country,,[C-D-x-F-G-x-x],https://youtu.be/QM2DLPDniFM
+AG-080,F-03,Rhinestone Cowboy,¿Ã¤õ¤§´Ë,,C,0,111,Old Time Country,,[C-D-x-F-G-x-x],https://youtu.be/QM2DLPDniFM
+AG-081,F-04,How Can I Tell Her,¿Ã¤õ¤§´Ë,,F#,4,75,Golden Country,,(C-D-Em-F#m-G-A-Bm),https://youtu.be/J6mla_lyqfo
+AG-082,F-05,Green Green Grass of Home,¿Ã¤õ¤§´Ë,,G,0,88,geoffers47,,(x-D-E-x-x-A-x),https://youtu.be/OY2oK3Y30pw
+AG-083,F-05,Green Green Grass of Home,¿Ã¤õ¤§´Ë,,Bb,1,97,Golden Country,,(x-D-E-x-x-A-x),https://youtu.be/IVvZ5rt8kHE
+AG-084,F-06,Love Me With All Of Your Heart,¿Ã¤õ¤§´Ë,,B,2,97,Dave Monk,Guitar,(x-D-Em-F#m-G-A-Bm),https://youtu.be/6J96UPMNfKA
+AG-085,F-07,Before The Next Teardrop Falls,¿Ã¤õ¤§´Ë,,A,0,88,Golden Country,,[C-D-E-F#m-x-A-x],https://youtu.be/eoFp7xrve8Q
+AG-086,F-08,I Just Called To Say I Love You,¿Ã¤õ¤§´Ë,,C,0/+1,111,Golden Country,,,https://youtu.be/e8lYTjwqgHc
+AG-087,F-09,Have you ever seen the rain,¿Ã¤õ¤§´Ë,,,5,111,Golden Country,,(C-D-Em-x-G-x-x),https://youtu.be/BIuCe2JckLk
+AG-088,F-09,Have you ever seen the rain,¿Ã¤õ¤§´Ë,,,5,115,Dave Monk,Guitar,(C-D-Em-x-G-x-x),https://youtu.be/NEm6mLc3lvE
+AG-089,F-10,Let It Be Me,¿Ã¤õ¤§´Ë,,G,0,71,Gentle Country Music,,[C-D-Em-x-G-Am-Bm],https://youtu.be/SlWDTL1O4gU
+AG-090,F-11,Me And You And A Dog Named Boo,¿Ã¤õ¤§´Ë,,F#,4,120,Lobo,,(C-D-x-x-G-A-x),https://youtu.be/RQuj5L2JIFQ
+AG-091,F-11,Me And You And A Dog Named Boo,¿Ã¤õ¤§´Ë,,F#,4,120,Dave Monk,Guitar,(C-D-x-x-G-A-x),https://youtu.be/RXdpsQBnbvI
+AG-092,F-12,Sad Movies,¿Ã¤õ¤§´Ë,,,2,115,Country Drifter,,(C-D-x-x-G-A-x),https://youtu.be/Wk2LLDZbJy0
+AG-093,F-13,Don't Cry Joni,¿Ã¤õ¤§´Ë,,,0,94,Golden Country,,(x-D-x-x-G-A-x),https://youtu.be/RW4OckXGvY4
+AG-094,F-14,To Sir With Love,¿Ã¤õ¤§´Ë,,,2,103,,,,
+AG-095,F-15,Besame Mucho,¿Ã¤õ¤§´Ë,,Bbm,1,97,Country Drifter,,[C-D-Em-x-x-Am-B],https://youtu.be/YTxd_WIL8ag
+AG-096,F-16,The Power of Love,¿Ã¤õ¤§´Ë,,,1,77,OM,,[C-D-Em-x-G-AM-x],https://youtu.be/qlQfmHTWp6s
+AG-097,H-01,The Last Waltz,¤T©ç¤À¸Ñ,,,0,97,Dave Monk,Guitar,[F#m (Fm)],https://youtu.be/UjemaE6IvF8
+AG-098,H-01,The Last Waltz,¤T©ç¤À¸Ñ,,,0,100,Golden Country,,[F#m (Fm)],https://youtu.be/aeCcCTgN-b4
+AG-099,H-02,Morning Has Broken,¤T©ç¤À¸Ñ,,,0,130,Dana Winner,,"[C#m(Cm),F#m(Fm)]",https://youtu.be/jphu1VgGBWo
+AG-100,H-02,Morning Has Broken,¤T©ç¤À¸Ñ,,,0,130,geoffers,Guitar,"[C#m(Cm),F#m(Fm)]",https://youtu.be/1StaSr8JAxs
+AG-101,H-03,Unchained Melody,©¹¨Æ½¦¤ù,,,0,94,Diesel Country,,[C-D#-x-F-G-Am-x],https://youtu.be/_EXfKesLQK8
+AG-102,H-03,Unchained Melody,©¹¨Æ½¦¤ù,,Bb,3,100,Island Musica,,[C-D#-x-F-G-Am-x],https://youtu.be/Bx1L8wlAG8c
+AG-103,H-04,The Wedding,©¹¨Æ½¦¤ù,,G,0,94,Dusty Country,,[C-D-Em-x-G-A-Bm],https://youtu.be/cqRQXAiB0dI
+AG-104,H-05,House of The Rising Sun,©¹¨Æ½¦¤ù,,,0,125,Timeless Music,,(C-D-E-F-x-Am-x),https://youtu.be/N4bFqW_eu2I
+AG-105,H-06,The End of World,©¹¨Æ½¦¤ù,,E,4/+1,97,Diesel Country,,(C-Dm-Em-Fm-G-Am-x),https://youtu.be/LEgWXT3Kbqg
+AG-106,H-07,Are You Lonesome Tonight,¤T©ç¤À¸Ñ,,C,3,77,Golden Country,,[x-D-E-F#/F#m-x-A-B/Bm],https://youtu.be/M2KT0I_h5m0
+AG-107,H-08,Tennessee Waltz,¤T©ç¤À¸Ñ,,G,0,88,Diesel Country,,[C-D-E-x-G-Am-Bm],https://youtu.be/FeQ3uK_rio0
+AG-108,H-09,Que Sera Sera,¤T©ç¤À¸Ñ,,Bb,1,167,Country Drifter,,"[x-D-E-x-Gbm/Gb,A/A#m,Bm]",https://youtu.be/NxLx1qH7gJM
+AG-109,H-09,Que Sera Sera,¤T©ç¤À¸Ñ,,Bb,1,176,Dave Monk,,"[x-D-E-x-Gbm/Gb,A/A#m,Bm]",https://youtu.be/FrNFxEy0Plo
+AG-110,H-10,Moon River,¤T©ç¤À¸Ñ,,Bb,1,94,Andy Williams,,,https://youtu.be/L_jgIezosVA
+AG-111,H-11,I Can't Stop Loving You,©¹¨Æ½¦¤ù,,F,3,100,Island Musica,,[x-D-x-x-G-A-x],https://youtu.be/N79vJFnQMo4
+AG-112,C-01,¥d¹A in Love,¤À¸Ñ©M©¶3,,Eb,3,69,½²¨Ø°a (MV),,(C-x-Em-F-G-Am-x),https://youtu.be/YaJ_lYFgr6c
+AG-113,C-01,¥d¹A in Love,°òÂ¦¤À¸Ñ,,Eb,3,70,Piano,Piano,(C-x-Em-F-G-Am-x),https://youtu.be/Q8MwTYUQjUk
+AG-114,C-02,·R«ÜÂ²³æ,¬W¦¡©M©¶,¬y¦æ01,,1,70,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-B],https://youtu.be/G6f_DDGCwAc
+AG-115,C-03,§A«ç»ò±Ë±o§ÚÃø¹L,¬W¦¡©M©¶,,Dm,5,73,¤F¤Z­µ¼Ö,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/nSFCmnQIlKY
+AG-116,C-04,«ê¦ü§Aªº·Å¬X,±¡ºq¬W¦¡,¬y¦æ03,,5,71,Lumbaba,¹q¤lµ^,(C-D-Em-x-G-Am-Bm),https://youtu.be/xfaVjiqMagw
+AG-117,C-04,«ê¦ü§Aªº·Å¬X,±¡ºq¬W¦¡,¬y¦æ03,C,0,79,½²µ^,,(C-D-Em-x-G-Am-Bm),https://youtu.be/YhX4ENW_LNk
+AG-118,C-05,Äe§ß,¬W¦¡©M©¶,,Ab,1,73,¨k¤k¹ï°Û AI,,[C-D-Em-F-G-Am-Bm],https://youtu.be/xE8m4s7ZojI
+AG-119,C-05,Äe§ß,¬W¦¡©M©¶,,,5,73,Lumbaba,¹q¤lµ^,[C-D-Em-F-G-Am-Bm],https://youtu.be/bi3GZ5BEVBM
+AG-120,C-06,¬Û¨£«ë±ß,¬W¦¡©M©¶,,Eb,3,57,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/FII0PemUrd8
+AG-121,C-07,Å¥®ü,¬W¦¡©M©¶,,Bb,3,64,Lumbaba,¹q¤lµ^,[C-D-Em-F-x-Am-Bm],https://youtu.be/tZNBQzbhafo
+AG-122,C-08,§à¾Ü,±¡ºq¬W¦¡,,,1,73,½²µ^,,[C-D-Em-x-G-Am-Bm],https://youtu.be/TfsFyoqFsLY
+AG-123,C-09,³­§Ú¬İ¤é¥X,±¡ºq¬W¦¡,,Eb,1,77,½²²E¨Î,,[x-D-Em-F#m-G-A-B],https://youtu.be/AgAWXdG_ck0
+AG-124,C-10,­·¤¤ªº©Ó¿Õ,¬W¦¡©M©¶,,,0,67,???,,[C-D-Em-x-G-Am-Bm],https://youtu.be/UBRalUA681k
+AG-125,C-11,­ú¬â,¬W¦¡©M©¶,,E,2,75,ª÷¦±¦A²{,,[x-D-x-F#m-G-A-Bm],https://youtu.be/lNgP9vRn42g
+AG-126,C-12,¾¥º¸¥»ªº¬î¤Ñ,±¡ºq¬W¦¡,,E,2,97,¤p¤C©M¶Â?,¦N¥L,[C-Dm-x-F-G-Am-x],https://youtu.be/128DtYw4rzg
+AG-127,C-12,¾¥º¸¥»ªº¬î¤Ñ,±¡ºq¬W¦¡,,,-2,97,¤ıÀu¨q,,[C-Dm-x-F-G-Am-x],https://youtu.be/oCkX0q_HtPA
+AG-128,C-13,¶À©ü,±¡ºq¬W¦¡,,E,2,75,¸g¨å¦^ÅT,,[x-D-Em-F#m-G-A-Bm],https://youtu.be/-kwsqnkIuT4
+AG-129,C-14,¥u­n§A¹L±o¤ñ§Ú¦n,¬W¦¡©M©¶,,Bb,3,81,¤F¤Z­µ¼Ö,,[C-D-Em-F-G-Am-Bm],https://youtu.be/YgHJpxQfB3s
+AG-130,C-15,·RªºÂ§ª«,¬W¦¡©M©¶3,,,0,120,,,[C-D-x-x-G-Am-B],https://youtu.be/ZON6Ifg9uJ8
+AG-131,C-16,¬O§_,¬W¦¡©M©¶,,B,2,67,¤F¤Z­µ¼Ö,,[x-D-Em-F#m-G-A-B],https://youtu.be/FZajtc1e9kI
+AG-132,C-17,²o±¾,¬W¦¡©M©¶,,,3,75,¶À¥ò±X(@yingying),,[C-D-x-F#m-G-A-Bm],https://youtu.be/qvVRNObflRc
+AG-133,C-18,Åı§ÚÅw³ßÅı§Ú¼~,¬W¦¡©M©¶,,,1,58,¤F¤Z­µ¼Ö,,[C-D-Em-F-G-Am-Bm],https://youtu.be/SiPrwpjMjDQ
+AG-134,C-19,¤ë¥b¤p©]¦±,¬W¦¡©M©¶,¬y¦æ03,,0,73,ªe¦X©`«O¤l,,[x-D-Em-F#m-G-Am-B],https://youtu.be/8VDCaldp4qc
+AG-135,C-19,¤ë¥b¤p©]¦±,¬W¦¡©M©¶,,,3,75,ViolinMomo,Violin,[x-D-Em-x-G-Am-B],https://youtu.be/quv9ZxTTf8g
+AG-136,E-01,±i¤Tªººq,±`¥Î§Ş¥©2,,,1,75,¤F¤Z­µ¼Ö,,[C-Dm-Em-F-G-Am-Bm],https://youtu.be/F7pc6YKVSrM
+AG-137,E-02,¤µ¤Ñ§A­n¶ùµ¹§Ú,±`¥Î§Ş¥©2,¬y¦æ01,,2,91,½²¨ÌªL ³³?,,[x-Dm/D-E-x-x-A-Bm],https://youtu.be/w6W1NREITNc
+AG-138,E-03,¨«¦b¶m¶¡ªº¤p¸ô¤W - »ô¿İ,±`¥Î§Ş¥©2,,Ebm,4,91,¦°ºq-Music,,[x-D-Em-F#-G-A-Bm],https://youtu.be/j9H3ZnnhXBQ
+AG-139,E-03,¨«¦b¶m¶¡ªº¤p¸ô¤W,±`¥Î§Ş¥©2,,Bbm,1,91,¦nÅ¥­µ¼Ö,,[x-D-Em-F#-G-A-Bm],https://youtu.be/R-qJ9X6YXjs
+AG-140,E-04,¥~±Cªº¼ê´òÆW,±`¥Î§Ş¥©2,,E,2,79,¦°ºq-Music,,[C-D-x-x-G-x-x],https://youtu.be/Q_dejblgrxg
+AG-141,E-05,µ£¦~,±`¥Î¤À¸Ñ3,,A,2,115,·nºuÂ½°Û,,(C-D-Em-x-G-Am/A-Bm),https://youtu.be/SZTJI051Pq0
+AG-142,E-05,µ£¦~,±`¥Î¤À¸Ñ3,,F,3,125,·L¥ú,,[x-D-Em-F#m-G-A-Bm],https://youtu.be/uSGcUM1WajI
+AG-143,E-06,¤@¤d­Ó¶Ë¤ßªº²z¥Ñ,ª±­A,,Bm,0,67,·nºuÂ½°Û,,"[F#, F#m]",https://youtu.be/i0Q_CGYCSaw
+AG-144,E-07,«á¨Ó,±`¥Î¬W¦¡2,,Eb,3,75,¼B­Y­^,,[C-Dm-Em-F-G-Am-x],https://youtu.be/zEbRxmTHWGE
+AG-145,E-07,«á¨Ó,±`¥Î¬W¦¡2,,Eb,3,75,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/qutT5b5vFaA
+AG-146,E-08,¦A«×­«¬Û³{,±`¥Î¤À¸Ñ3,,D,2/+1,94,­§¥i°ß,,[C-Dm-Em-F-G-Am-x],https://youtu.be/M1Nz1XNpidI
+AG-147,E-08,¦A«×­«¬Û³{,±`¥Î¤À¸Ñ3,,Eb,3,100,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/8LeI51dHfto
+AG-148,E-09,ªá¤ß,±`¥Î¤À¸Ñ2,,,1,103,¤F¤Z­µ¼Ö,,[C-Dm-Em-F-G-Am-x],https://youtu.be/4AvC5DInNPo
+AG-149,E-10,«B¤¤±Û«ß,¿Ã¤õ¤§´Ë,,B,4,120,ª÷¦±¦A²{,,[C-D-Em-x-G-A-Bm],https://youtu.be/8unXjrjicww
+AG-150,E-11,¥i¥i¦«®üªºªª¦Ï¤H,¿Ã¤õ¤§´Ë,,Fm,1,63,¤ıµX,,[C-D-Em-x-G-Am/A-Bm/B],https://youtu.be/GuPhNF8bsX8
+AG-151,E-11,¥i¥i¦«®üªºªª¦Ï¤H,¿Ã¤õ¤§´Ë,,Cm,1,65,SaxRuby,Saxophone,[C-D-Em-x-G-Am/A-Bm/B],https://youtu.be/XA5FIUO3lu4
+AG-152,E-12,¥ú³±ªº¬G¨Æ - Ã¹¤j¦ö ,±`¥Î¤À¸Ñ3,,F#,4,75,Ayen¦ó¿[©ı,¦N¥L¼u°Û,[x-D-E-x-G-A-x],https://youtu.be/yfj8CBuu6CI
+AG-153,I-01,Take Me to Your Heart,±`¥Î¬W¦¡2,¬y¦æ01,,4,60,Momo Tian,Violin,[x-D-Em-F#m-G-A-Bm],https://youtu.be/DO8Rk6swoWA
+AG-154,I-02,Always Remembered Us This Way,±¡ºq¬W¦¡,,,0,65,SaxRuby,Saxophone,[C-x-x-F-G-Am-Bb],https://youtu.be/0x6Rq1rH-24
+AG-155,I-03,Perfect,¬W¦¡©M©¶,,Ab,1,64,SaxRuby,Saxophone,[C-D-Em-x-G-x-x],https://youtu.be/3nna1UQx-ws
+AG-156,I-04,Cottonfield,¤À¸Ñ3,,,-1,75,DGJ - Live,Band,[x-D-E-x-x-A-x],https://youtu.be/OiU4Tr2jluM
+AG-157,I-05,±i¤Tªººq,±`¥Î§Ş¥©2,,,1/+1,75,¤F¤Z­µ¼Ö,,[C-Dm-Em-F-G-Am-Bm],https://youtu.be/qB_FRt-kSv8
+AG-158,I-06,§A«ç»ò±Ë±o§ÚÃø¹L,¬W¦¡©M©¶,,Dm,5,73,¤F¤Z­µ¼Ö,,[C-Dm-E-F-G-Am-Bm],https://youtu.be/--2P5FsYRcU
+AG-159,I-07,¥i¥i¦«®üªºªª¦Ï¤H,¿Ã¤õ¤§´Ë,,Cm,1,65,SaxRuby,Saxophone,[C-D-Em-x-G-Am/A-Bm/B],https://youtu.be/05Owmxeyq7I
+AG-160,I-08,Äe§ß,¬W¦¡©M©¶,,Ab,1,73,SaxRuby,Saxophone,[C-D-Em-F-G-Am-Bm],https://youtu.be/xTL4oKQ1F7k
+AG-161,I-09,¦A«×­«¬Û³{,±`¥Î¤À¸Ñ3,,Eb,3,100,SaxRuby,Saxophone,[C-Dm-Em-F-G-Am-x],https://youtu.be/XRVfpYJA64Q
